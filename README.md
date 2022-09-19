@@ -1,6 +1,6 @@
 ### Olá! Sou João Victor Duarte 😊
 - 🔭 Hoje sou bolsista de Iniciação acadêmica
-- 🌱 Tenho Javascript como minha linguagem predominante
+- 🌱 Tenho Java e Javascript como minhas linguagens predominantes
 
 <div align="center">
   <a href="https://github.com/SrTinny">
