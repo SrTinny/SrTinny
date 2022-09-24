@@ -1,11 +1,11 @@
 ### Olá! Sou João Victor Duarte 😊
 - 🔭 Hoje sou bolsista de Iniciação acadêmica
-- 🌱 Gosto de conhecer novas linguagens e tecnologias, atualmente estou estudando java
+- 🌱 Gosto de conhecer novas linguagens e tecnologias, atualmente estou estudando programação web com foco em React e JavaScript
 
 <div align="center">
   <a href="https://github.com/SrTinny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrTinny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTinny&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrTinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTinny&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -17,7 +17,8 @@
 </div>
   
   ##
-  
+ 
+<h2>encontre-me em: </h2>
 <div> 
   <a href="https://www.instagram.com/sr.tinny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaovictorcardosoduartejoao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
