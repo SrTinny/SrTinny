@@ -1,5 +1,5 @@
 ### Olá! Sou João Victor Duarte 😊
-- 🔭 Hoje sou bolsista de Iniciação acadêmica
+- 🔭 Hoje estudante de computação
 - 🌱 Gosto de conhecer novas linguagens e tecnologias, atualmente estou estudando programação web com foco em React e Node
 <div align="center">
   <a href="https://github.com/SrTinny">
