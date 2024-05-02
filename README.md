@@ -1,9 +1,9 @@
 ### Olá! Sou João Victor Duarte 😊
 - 🔭 Hoje estudante de computação
-- 🌱 Gosto de conhecer novas linguagens e tecnologias, atualmente estou estudando programação web com foco em React e Node
+- 🌱 Gosto de conhecer novas linguagens e tecnologias, atualmente estou estudando programação web
 <div align="center">
   <a href="https://github.com/SrTinny">
-  //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrTinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrTinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTinny&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
