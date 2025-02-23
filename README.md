@@ -1,60 +1,85 @@
+<div align="center">
+  <img src='https://images.weserv.nl/?url=github.com/SrTinny.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
+</div>
+
 <h1 align="center">Olá! Eu sou João Victor Duarte</h1>
-<p align="center">🎓 Estudante de Computação | 💻 Desenvolvedor Web e Entusiasta de Novas Tecnologias | 🚀 Criador de Soluções Digitais</p>
+
+```typescript
+type Dev = { nome: string; habilidades: string[] };
+class PerfilDev {
+    constructor(private readonly desenvolvedor: Dev) { }
+    exibirPerfil() {
+        console.log(`
+            Nome: ${this.desenvolvedor.nome}
+            Habilidades: ${this.desenvolvedor.habilidades.join(", ")}`
+        )
+    }
+}
+const meuPerfil = new PerfilDev({
+    nome: "João Victor Duarte",
+    habilidades: [
+        "Desenvolvimento Web Fullstack",
+        "JavaScript",
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Python"
+    ]
+});
+meuPerfil.exibirPerfil();
+```
 
 ---
 
 ## 🧑‍💻 Sobre Mim
 
-Olá! Sou um estudante de Computação com paixão por desenvolvimento de software e tecnologias emergentes. Atualmente, estou me especializando em desenvolvimento web e tenho interesse em explorar e aprender linguagens de programação e frameworks modernos. Meu objetivo é aplicar meus conhecimentos em projetos desafiadores, que permitam tanto meu crescimento profissional quanto o impacto positivo através de soluções inovadoras.
+Sou estudante de Computação apaixonado por criar soluções tecnológicas inovadoras. Tenho experiência em desenvolvimento web Fullstack, e busco constantemente aprender novas tecnologias e frameworks para aprimorar minhas habilidades. Estou sempre aberto a desafios e oportunidades que proporcionem crescimento profissional e pessoal.
 
 ---
 
-## 💡 Principais Habilidades e Tecnologias
+## 🚀 Principais Habilidades e Tecnologias
 
-Com foco em aprender continuamente e desenvolver minhas habilidades, estou sempre atualizado com as práticas mais modernas de desenvolvimento. Abaixo, algumas das linguagens e ferramentas que domino:
+**Front-end:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 
-- **Java:** Experiência com programação orientada a objetos para desenvolvimento de aplicações robustas e eficientes.
-- **JavaScript (ES6+):** Utilizo JavaScript para tornar interfaces interativas, com foco em boas práticas e organização de código.
-- **HTML5 e CSS3:** Habilidades avançadas na construção de interfaces de usuário responsivas, utilizando HTML semântico e CSS avançado.
-- **Python:** Conhecimentos em Python para desenvolvimento de scripts e automação de tarefas, além de explorar a linguagem em aplicações de machine learning.
-  
-<div align="center">
-  <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
+**Back-end:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+
+**Banco de Dados:**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+**Ferramentas:**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
 ---
 
 ## 🌐 Github Stats
 
-Meus repositórios mostram uma variedade de projetos, de pequenos experimentos a iniciativas mais robustas. Abaixo está uma visão das minhas linguagens mais usadas, refletindo meu aprendizado e dedicação.
-
 <div align="center">
   <a href="https://github.com/SrTinny">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTinny&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrTinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTinny&layout=donut&theme=dracula"/>
   </a>
 </div>
 
 ---
 
-## 📫 Onde Me Encontrar
+## 📫 Contato
 
-Vamos nos conectar? Sinta-se à vontade para entrar em contato comigo pelas redes abaixo. Gosto de compartilhar conhecimento e trocar experiências com profissionais de todas as áreas!
+Fique à vontade para me chamar e trocar ideias sobre projetos ou simplesmente bater um papo sobre tecnologia!
 
-<div> 
-  <a href="https://www.instagram.com/sr.tinny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mailto:joaovictorcardosoduartejoao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joao-victor-duarte-0b0bbb240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href="https://www.instagram.com/sr.tinny" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:joaovictorcardosoduartejoao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joao-victor-duarte-0b0bbb240" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
----
 
-## 🎯 Objetivos e Próximos Passos
-
-Estou focado em ampliar meu conhecimento nas áreas de:
-- **Desenvolvimento Web Fullstack:** Aprimorando meu entendimento em frameworks como React e Node.js.
-- **Projetos de Código Aberto:** Contribuir para a comunidade e colaborar em projetos que tragam benefícios reais.
-- **Exploração de Novas Tecnologias:** Curioso por frameworks emergentes e tendências tecnológicas, estou sempre em busca de aprender algo novo.
