@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='https://images.weserv.nl/?url=github.com/SrTinny.pn?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
+  <img src='https://images.weserv.nl/?url=github.com/SrTinny.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d' />
 </div>
 
 <h1 align="center">Hi there! I'm João Victor Duarte 👋</h1>
