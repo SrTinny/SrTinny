@@ -6,8 +6,10 @@
 
 ```typescript
 type Dev = { name: string; skills: string[] };
+
 class DevProfile {
   constructor(private readonly developer: Dev) {}
+
   showProfile() {
     console.log(`
       Name: ${this.developer.name}
@@ -19,52 +21,50 @@ class DevProfile {
 const myProfile = new DevProfile({
   name: "João Victor Duarte",
   skills: [
-    "Fullstack Web Development",
-    "3D Modeling",
-    "JavaScript, TypeScript",
-    "React, Angular",
-    "Node.js, Express.js",
-    "MongoDB, MySQL",
-    "AutoCAD, SketchUp"
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "NestJS",
+    "PostgreSQL",
+    "Prisma",
+    "Docker"
   ]
 });
+
 myProfile.showProfile();
 ```
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student passionate about building innovative digital solutions. I have experience in fullstack web development and 3D modeling, always blending creativity with functionality.
+I'm a Computer Engineering student passionate about building innovative digital solutions. I have experience in full-stack web development, always combining creativity and functionality.
 
-I’ve contributed to academic projects such as **Biblioteca COVID** and **FormaMus**, both connected to the Federal University of Ceará. I'm always open to new technologies, challenges, and meaningful collaborations. 🚀
+I've contributed to academic projects such as the COVID Library and FormaMus, both affiliated with the Federal University of Ceará. I'm always open to new technologies, challenges, and meaningful collaborations. 🚀
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Front-end**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Front-end** <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-**Back-end**  
+**Back-end** <br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
-**Databases**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Databases** <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Tools & Others**  
+**Tools & DevOps** <br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E94E32?style=for-the-badge&logo=autodesk&logoColor=white)
-![SketchUp](https://img.shields.io/badge/SketchUp-DA251D?style=for-the-badge&logo=sketchup&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ---
 
