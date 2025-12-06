@@ -69,17 +69,4 @@ I've contributed to academic projects such as the COVID Library and FormaMus, bo
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
----
-
-## 💻 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/SrTinny">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrTinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_rank=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrTinny&layout=donut&theme=dracula"/>
-  </a>
-</div>
-
----
-
 
