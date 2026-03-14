@@ -27,7 +27,7 @@ Contribuí com projetos acadêmicos vinculados à UFC — **COVID Library** e **
 | Projeto | Descrição | Stack |
 |--------|-----------|-------|
 | [**UX Shop**](https://github.com/SrTinny/LINK_AQUI) | Loja demo fullstack com autenticação segura (HttpOnly cookies, CSRF, refresh token rotativo), gestão de produtos/categorias, carrinho e gerenciamento de endereços | Next.js · Express · Prisma · PostgreSQL · TailwindCSS |
-| [**Itelifri**](https://github.com/SrTinny/Sistema-de-monitoramento-de-ar-condicionado) | Sistema fullstack IoT para controle e monitoramento de ar-condicionado via ESP32, com agendamento automático de comandos e comunicação firmware-backend por heartbeat | React/Vite · Node.js · Express · Prisma · PostgreSQL · JWT · ESP32 |
+| [**Intelifri**](https://github.com/SrTinny/Sistema-de-monitoramento-de-ar-condicionado) | Sistema fullstack IoT para controle e monitoramento de ar-condicionado via ESP32, com agendamento automático de comandos e comunicação firmware-backend por heartbeat | React/Vite · Node.js · Express · Prisma · PostgreSQL · JWT · ESP32 |
 | [**Archviz Prompt Manager**](https://github.com/SrTinny/archviz-prompt-manager) | Gerenciador de prompts de IA para arquitetura de visualização, com busca em tempo real, autenticação segura e interface dark mode | Next.js · TypeScript · Prisma · PostgreSQL |
 | [**DevHub**](https://github.com/SrTinny/devhub) | Site da minha startup | _descrição em breve_ |
 
