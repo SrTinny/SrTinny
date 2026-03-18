@@ -69,8 +69,7 @@ Contribuí com projetos acadêmicos vinculados à UFC — **COVID Library** e **
 
 ## 📌 Atualmente
 
-- 🔨 Trabalhando em: Finalizando meu TCC (intelifri) & construindo a página da minha startup.
-- 📖 Aprendendo: Docker
+- 📖 Aprendendo: Engenharia de Prompt
 - 💬 Aberto a colaborações e oportunidades
 
 ---
