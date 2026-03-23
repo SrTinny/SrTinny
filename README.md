@@ -25,12 +25,13 @@ Contribuí com projetos acadêmicos vinculados à UFC — **COVID Library** e **
 ## 🚀 Projetos em destaque
 
 | Projeto | Descrição | Stack |
-|--------|-----------|-------|
-| [**UX Shop**](https://github.com/SrTinny/UX-Shop) | Loja demo fullstack com autenticação segura (HttpOnly cookies, CSRF, refresh token rotativo), gestão de produtos/categorias, carrinho e gerenciamento de endereços | Next.js · Express · Prisma · PostgreSQL · TailwindCSS |
-| [**Intelifri**](https://github.com/SrTinny/Sistema-de-monitoramento-de-ar-condicionado) | Sistema fullstack IoT para controle e monitoramento de ar-condicionado via ESP32, com agendamento automático de comandos e comunicação firmware-backend por heartbeat | React/Vite · Node.js · Express · Prisma · PostgreSQL · JWT · ESP32 |
-| [**Archviz Prompt Manager**](https://github.com/SrTinny/archviz-prompt-manager) | Gerenciador de prompts de IA para arquitetura de visualização, com busca em tempo real, autenticação segura e interface dark mode | Next.js · TypeScript · Prisma · PostgreSQL |
-| [**DevHub**](https://github.com/SrTinny/devhub) | Projeto web desenvolvido com React, TypeScript e Vite, focado em apresentar serviços, portfólio e informações de contato de forma moderna e responsiva, utilizando componentes reutilizáveis e estilização com CSS Modules. | React · TypeScript · Vite · CSS Modules. |
-| [**Portfólio**](https://github.com/SrTinny/Joao-Victor-Portfolio) | Uma aplicação de portfólio pessoal construída para apresentar projetos, habilidades e informações de contato de forma responsiva e acessível. | React + Vite |
+|:---|:---|:---|
+| [**UX Shop**](https://github.com/SrTinny/UX-Shop) | Loja demo fullstack com autenticação segura (HttpOnly cookies, CSRF, refresh token rotativo), gestão de produtos/categorias, carrinho e gerenciamento de endereços. | Next.js · Express · Prisma · PostgreSQL · TailwindCSS |
+| [**Intelifri**](https://github.com/SrTinny/Sistema-de-monitoramento-de-ar-condicionado) | Sistema fullstack IoT para controle e monitoramento de ar-condicionado via ESP32, com agendamento automático de comandos e comunicação firmware-backend. | React · Vite · Node.js · Express · Prisma · PostgreSQL · JWT · ESP32 |
+| [**Archviz Prompt Manager**](https://github.com/SrTinny/archviz-prompt-manager) | Gerenciador de prompts de IA para arquitetura de visualização, com busca em tempo real, autenticação segura e interface dark mode. | Next.js · TypeScript · Prisma · PostgreSQL |
+| [**DevHub**](https://github.com/SrTinny/devhub) | Plataforma focada em apresentar serviços, portfólio e informações de contato de forma moderna e responsiva, utilizando componentes reutilizáveis. | React · TypeScript · Vite · CSS Modules |
+| [**Portfólio**](https://github.com/SrTinny/Joao-Victor-Portfolio) | Aplicação de portfólio pessoal construída para apresentar projetos, habilidades e informações de contato de forma responsiva e acessível. | React · Vite |
+| [**LMS Lite**](https://github.com/SrTinny/Sistema-de-Gestao-de-Trilhas-de-Aprendizagem-LMS-Lite-) | Sistema de gestão de aprendizagem (LMS) focado em escalabilidade e segurança, com modelagem de dados complexos e fluxos de trabalho ágeis. | Python · Django · Flask · React · PostgreSQL · Docker · GitFlow |
 
 ---
 
