@@ -15,10 +15,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Estudante de Engenharia da Computação na UFC com foco em desenvolvimento fullstack.
-Tenho experiência prática com React/Next.js no frontend e Express + Prisma no backend, cobrindo desde modelagem de banco de dados até autenticação segura com JWT, cookies HttpOnly e CSRF.
+Estudante de Engenharia da Computação na UFC com foco em desenvolvimento fullstack. Possuo experiência sólida no ecossistema JavaScript, atuando no frontend com React e Next.js, e no backend com Node.js, Express e Prisma.
 
-Contribuí com projetos acadêmicos vinculados à UFC — **COVID Library** e **FormaMus** — e mantenho projetos próprios de ponta a ponta, do banco à interface.
+Especialista em arquitetura de aplicações seguras, com domínio em modelagem de bancos de dados relacionais e implementação de fluxos de autenticação robustos (JWT, cookies HttpOnly e proteção CSRF). Além de projetos próprios de ponta a ponta, contribuí com o desenvolvimento de sistemas acadêmicos vinculados à UFC, como o COVID Library e o FormaMus.
 
 ---
 
